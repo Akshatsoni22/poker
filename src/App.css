@@ -1,0 +1,197 @@
+::-webkit-input-placeholder {
+  /* WebKit browsers */
+  text-transform: capitalize;
+}
+
+:-moz-placeholder {
+  /* Mozilla Firefox 4 to 18 */
+  text-transform: capitalize;
+}
+
+::-moz-placeholder {
+  /* Mozilla Firefox 19+ */
+  text-transform: capitalize;
+}
+
+:-ms-input-placeholder {
+  /* Internet Explorer 10+ */
+  text-transform: capitalize;
+}
+
+::placeholder {
+  /* Recent browsers */
+  text-transform: capitalize;
+}
+
+.Toastify__toast-icon {
+  display: none;
+}
+
+.Toastify__close-button {
+  display: none;
+}
+
+.countryNumber {
+  position: relative;
+}
+
+.countryNumber input {
+  padding-left: 60px;
+}
+
+.countryNumber .countryCode {
+  position: absolute;
+  top: 52px;
+  left: 15px;
+  border-right: 2px solid #ededed;
+  padding-right: 0.7rem;
+  line-height: normal;
+}
+
+.password_check {
+  position: relative;
+}
+
+.password_check span {
+  position: absolute;
+  top: 3.4rem;
+  right: 1rem;
+}
+
+.login-form .form-floating-label input {
+  padding-left: 20px;
+}
+
+.form-group-checkbox .form-group-checkbox-span {
+  padding-left: 30px;
+}
+
+.list_right span {
+  margin: 0px 3px;
+}
+
+.verified-field .unverify {
+  color: #E44D3A;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.verified-field .verify {
+  color: #6CDA6C;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+input[type="file"] {
+  text-transform: capitalize;
+}
+
+span.fas.fa-eye {
+  font-size: 11px;
+}
+
+span.fas.fa-eye-slash {
+  font-size: 11px;
+}
+
+.text-danger {
+  font-size: 12px;
+}
+
+.login .show-password {
+  top: 38%;
+}
+
+.change_password_form {
+  position: relative;
+}
+
+.change_password_form .show-password {
+  position: absolute;
+  right: 20px;
+  top: 55%;
+  transform: translateY(-50%);
+  cursor: pointer;
+}
+
+.swal-title {
+  color: #000000;
+}
+
+.swal-text {
+  color: #000000;
+}
+
+.immunoshop-spinner {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+}
+
+.verified-field {
+  display: flex;
+  align-items: flex-start;
+}
+
+.verified-field label {
+  margin-right: 25px;
+  margin-bottom: 0;
+}
+
+.verified-field .form-group-checkbox-span-main {
+  display: flex;
+  align-items: flex-start;
+}
+
+.verified-field .form-group-checkbox-span-main .checkbox-span-verified {
+  margin-right: 25px;
+  color: green;
+}
+
+.verified-field .form-group-checkbox-span-main .checkbox-span-unverified {
+  color: red;
+}
+
+.uppercase_input {
+  text-transform: uppercase;
+}
+
+span.span-fa-edit {
+  background-color: #31CE36 !important;
+}
+
+span.span-fa-edit {
+  background-color: #31CE36 !important;
+}
+
+span.span-fa-trash {
+  background-color: red !important;
+}
+
+span.span-fa-disable {
+  background-color: red !important;
+}
+
+span.span-fa-enable {
+  background-color: #31CE36 !important;
+}
+
+.form_under_image img {
+  max-height: 100px;
+  max-width: 100px;
+  margin-bottom: 5px;
+}
